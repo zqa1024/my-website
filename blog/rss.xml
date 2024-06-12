@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>最后一个转弯 Blog</title>
         <link>https://zqa1024.github.io/my-website/blog/</link>
-        <description>My Site Blog</description>
+        <description>最后一个转弯 Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>zh-Hans</language>
+        <language>zh-CN</language>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://zqa1024.github.io/my-website/blog/welcome/</link>
